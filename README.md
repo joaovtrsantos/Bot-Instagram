@@ -1,2 +1,2 @@
 # Bot-Instagram
-Bot que loga e abre hashtags
+Bot para fazer login e abrir hashtags
